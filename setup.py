@@ -10,5 +10,5 @@ setup(
     author_email='tranceway@gmail.com',
     license='MIT',
     url='http://github.com/nachopro/basic_http',
-    packages=['basic_http'],
+    packages=['BasicHttp'],
 )
